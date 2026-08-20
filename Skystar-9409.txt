@@ -486,6 +486,11 @@ dimwishlist:item=2480871539&perks=436053704,52780822,243981275,2077819806
 
 // Falling Guillotine - 陨落铡刀 (mnk,pve)
 //notes: PVE tags:mnk,pve
+dimwishlist:item=2480871539&perks=776531651,2077819806
+
+
+// Falling Guillotine - 陨落铡刀 (mnk,pve)
+//notes: PVE tags:mnk,pve
 dimwishlist:item=2480871539&perks=436053704,52780822,3418165135,1618208178
 dimwishlist:item=2480871539&perks=436053704,52780822,984655331,1618208178
 
