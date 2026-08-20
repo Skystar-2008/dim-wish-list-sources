@@ -1,6 +1,12 @@
 title:星宇 Skystar#9409凯旋赛季
 description:凯旋赛季
 
+// The Slammer -  急锋 (mnk,pve)
+//notes: PVE tags:mnk,pve
+dimwishlist:item=189854537&perks=436053704,52780822,2077819806,3650930298
+dimwishlist:item=189854537&perks=436053704,52780822,2077819806,3640170453
+
+
 // Adamantite - 金刚磐石 (mnk,pve)
 //notes: tags:mnk,pve
 dimwishlist:item=621450049&perks=839105230,3142289711,692399809,2298656195,816963252
@@ -470,6 +476,24 @@ dimwishlist:item=2130249527&perks=1124871858,1783397184,3017780555,2890807135
 dimwishlist:item=2130249527&perks=1124871858,1783397184,3017780555,3581929919
 dimwishlist:item=2130249527&perks=1124871858,1783397184,4223976499,2890807135
 dimwishlist:item=2130249527&perks=1124871858,1783397184,4223976499,3581929919
+
+
+// Falling Guillotine - 陨落铡刀 (mnk,pve)
+//notes: PVE tags:mnk,pve
+dimwishlist:item=2480871539&perks=436053704,52780822,1546637391,2077819806
+dimwishlist:item=2480871539&perks=436053704,52780822,243981275,2077819806
+
+
+// Falling Guillotine - 陨落铡刀 (mnk,pve)
+//notes: PVE tags:mnk,pve
+dimwishlist:item=2480871539&perks=436053704,52780822,3418165135,1618208178
+dimwishlist:item=2480871539&perks=436053704,52780822,984655331,1618208178
+
+
+// Falling Guillotine - 陨落铡刀 (mnk,pve)
+//notes: PVE tags:mnk,pve
+dimwishlist:item=2480871539&perks=1498024248,2338887882,3418165135,1618208178
+dimwishlist:item=2480871539&perks=1498024248,2338887882,984655331,1618208178
 
 
 // Seventh Seraph Carbine (mnk,god-pve)
