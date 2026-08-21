@@ -3,8 +3,10 @@ description:凯旋赛季
 
 // The Slammer -  急锋 (mnk,pve)
 //notes: PVE tags:mnk,pve
-dimwishlist:item=189854537&perks=436053704,52780822,2077819806,3650930298
-dimwishlist:item=189854537&perks=436053704,52780822,2077819806,3640170453
+dimwishlist:item=189854537&perks=2077819806,3650930298
+dimwishlist:item=189854537&perks=2077819806,3640170453
+
+
 
 
 // Adamantite - 金刚磐石 (mnk,pve)
