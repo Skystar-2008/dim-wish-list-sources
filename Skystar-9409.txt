@@ -1,4 +1,4 @@
-title:星宇 Skystar#9409凯旋赛季
+title:Skystar凯旋赛季
 description:凯旋赛季
 
 // Service Revolver - 忠侍左轮 (mnk,pve)
