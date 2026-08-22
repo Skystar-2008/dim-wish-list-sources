@@ -1,5 +1,5 @@
-title:Skystar-9409凯旋赛季-自动步枪
-description:凯旋赛季-自动步枪
+title:凯旋赛季 自动步枪-精选perk
+description:凯旋赛季 (自动步枪-精选perk)
 
 // Snipehunt Mk. 47 - 狙猎Mk.47 (pve)
 //notes: 狙猎Mk.47     Lv.A tags:pve
