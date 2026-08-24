@@ -10,6 +10,24 @@ dimwishlist:item=1605599021&perks=1631667848,2679249093
 dimwishlist:item=1605599021&perks=1631667848,3640170453
 dimwishlist:item=1605599021&perks=1631667848,2360754333
 
+// Triple Laureate - 三冠得主 (pve)
+//notes: 三冠得主 tags:pve
+dimwishlist:item=1605599021&perks=2922950962,2679249093
+dimwishlist:item=1605599021&perks=2922950962,3640170453
+dimwishlist:item=1605599021&perks=1631667848,2679249093
+dimwishlist:item=1605599021&perks=1631667848,3640170453
+dimwishlist:item=1605599021&perks=2010801679,2679249093
+dimwishlist:item=1605599021&perks=2010801679,3640170453
+
+// Triple Laureate - 三冠得主 2 (pve)
+//notes: 三冠得主 2 tags:pve
+dimwishlist:item=2908653246&perks=2922950962,2679249093
+dimwishlist:item=2908653246&perks=2922950962,3640170453
+dimwishlist:item=2908653246&perks=1631667848,2679249093
+dimwishlist:item=2908653246&perks=1631667848,3640170453
+dimwishlist:item=2908653246&perks=2010801679,2679249093
+dimwishlist:item=2908653246&perks=2010801679,3640170453
+
 
 // Triple Laureate - 三冠得主 (pvp)
 //notes: pvp tags:pvp
